@@ -22,11 +22,10 @@ public class atv01vetores {
 		                break;
 		            }
 		        }
-
 		        if (posicao != -1) {
 		            System.out.println("O número " + num + " está localizado na posição: " + posicao);
 		        } else {
-		            System.out.println("O número " + num + " não foi encontrado!");
+		            System.out.println("O número " + num + " não foi encontrado!"); 
 		        }
 		    }
 		}
